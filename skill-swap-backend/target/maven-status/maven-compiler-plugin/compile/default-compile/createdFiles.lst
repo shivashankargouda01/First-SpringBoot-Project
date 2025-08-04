@@ -1,0 +1,17 @@
+com\example\skillswap\controller\AuthController.class
+com\example\skillswap\config\SecurityConfig.class
+com\example\skillswap\model\User.class
+com\example\skillswap\SkillSwapApplication.class
+com\example\skillswap\controller\SearchController.class
+com\example\skillswap\repository\SkillRepository.class
+com\example\skillswap\repository\SkillSwapRequestRepository.class
+com\example\skillswap\service\SkillService.class
+com\example\skillswap\controller\SkillSwapController.class
+com\example\skillswap\model\SkillSwapRequest.class
+com\example\skillswap\service\SkillSwapService.class
+com\example\skillswap\controller\SkillController.class
+com\example\skillswap\model\Skill.class
+com\example\skillswap\repository\UserRepository.class
+com\example\skillswap\config\WebConfig$1.class
+com\example\skillswap\service\UserService.class
+com\example\skillswap\config\WebConfig.class
