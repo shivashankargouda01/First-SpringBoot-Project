@@ -81,21 +81,9 @@ npm start
 Frontend runs on `http://localhost:3000`.
 
 
-## 📷 Screenshots
 
-![image_alt](https://github.com/shivashankargouda01/First-SpringBoot-Project/raw/main/Screenshot%20(383).png?raw=true)
-![Screenshot 2](https://github.com/shivashankargouda01/First-SpringBoot-Project/raw/main/Screenshot%20(386).png)
-![Screenshot 3](https://github.com/shivashankargouda01/First-SpringBoot-Project/raw/main/Screenshot%20(389).png)
-![Screenshot 4](https://github.com/shivashankargouda01/First-SpringBoot-Project/raw/main/Screenshot%20(390).png)
-![Screenshot 5](https://github.com/shivashankargouda01/First-SpringBoot-Project/raw/main/Screenshot%20(392).jpg)
-
-
-![Image_Alt](https://github.com/shivashankargouda01/First-SpringBoot-Project/blob/74840a94ed3664fcdfe2cf5a72940690fa1191d1/Screenshot%20(383).png)
-
-![image_alt](https://github.com/shivashankargouda01/BlockChainProject/blob/fa04a9d70e5a6a3c3ca6b953e35da2d04c83366e/Screenshots/Screenshot%20(302).png)
-
----
-
-Happy skill swapping! 🎉
-```
-
+![Screenshot 1](https://raw.githubusercontent.com/shivashankargouda01/First-SpringBoot-Project/main/Screenshot%20%28383%29.png)
+![Screenshot 2](https://raw.githubusercontent.com/shivashankargouda01/First-SpringBoot-Project/main/Screenshot%20%28386%29.png)
+![Screenshot 3](https://raw.githubusercontent.com/shivashankargouda01/First-SpringBoot-Project/main/Screenshot%20%28389%29.png)
+![Screenshot 4](https://raw.githubusercontent.com/shivashankargouda01/First-SpringBoot-Project/main/Screenshot%20%28390%29.png)
+![Screenshot 5](https://raw.githubusercontent.com/shivashankargouda01/First-SpringBoot-Project/main/Screenshot%20%28392%29.jpg)
