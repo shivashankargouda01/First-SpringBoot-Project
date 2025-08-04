@@ -88,7 +88,7 @@ Frontend runs on `http://localhost:3000`.
 ![image alt](https://github.com/shivashankargouda01/First-SpringBoot-Project/blob/5a7f1367d0a4d565f24275db98d45a8ed4ee3dd1/Screenshot%20(386).png?raw=true)
 ![image alt](https://github.com/shivashankargouda01/First-SpringBoot-Project/blob/5a7f1367d0a4d565f24275db98d45a8ed4ee3dd1/Screenshot%20(389).png?raw=true)
 ![image alt](https://github.com/shivashankargouda01/First-SpringBoot-Project/blob/5a7f1367d0a4d565f24275db98d45a8ed4ee3dd1/Screenshot%20(390).png?raw=true)
-![image alt](https://github.com/shivashankargouda01/First-SpringBoot-Project/blob/5a7f1367d0a4d565f24275db98d45a8ed4ee3dd1/Screenshot%20(392).png?raw=true)
+![image alt](https://github.com/shivashankargouda01/First-SpringBoot-Project/blob/5a7f1367d0a4d565f24275db98d45a8ed4ee3dd1/Screenshot%20(392).jpg?raw=true)
 
 ---
 
