@@ -81,14 +81,14 @@ npm start
 Frontend runs on `http://localhost:3000`.
 
 
-
 ## 📷 Screenshots
 
-![image alt](https://github.com/shivashankargouda01/First-SpringBoot-Project/blob/5a7f1367d0a4d565f24275db98d45a8ed4ee3dd1/Screenshot%20(383).png?raw=true)
-![image alt](https://github.com/shivashankargouda01/First-SpringBoot-Project/blob/5a7f1367d0a4d565f24275db98d45a8ed4ee3dd1/Screenshot%20(386).png?raw=true)
-![image alt](https://github.com/shivashankargouda01/First-SpringBoot-Project/blob/5a7f1367d0a4d565f24275db98d45a8ed4ee3dd1/Screenshot%20(389).png?raw=true)
-![image alt](https://github.com/shivashankargouda01/First-SpringBoot-Project/blob/5a7f1367d0a4d565f24275db98d45a8ed4ee3dd1/Screenshot%20(390).png?raw=true)
-![image alt](https://github.com/shivashankargouda01/First-SpringBoot-Project/blob/5a7f1367d0a4d565f24275db98d45a8ed4ee3dd1/Screenshot%20(392).jpg?raw=true)
+![Screenshot 1](https://github.com/shivashankargouda01/First-SpringBoot-Project/raw/main/Screenshot%20(383).png)
+![Screenshot 2](https://github.com/shivashankargouda01/First-SpringBoot-Project/raw/main/Screenshot%20(386).png)
+![Screenshot 3](https://github.com/shivashankargouda01/First-SpringBoot-Project/raw/main/Screenshot%20(389).png)
+![Screenshot 4](https://github.com/shivashankargouda01/First-SpringBoot-Project/raw/main/Screenshot%20(390).png)
+![Screenshot 5](https://github.com/shivashankargouda01/First-SpringBoot-Project/raw/main/Screenshot%20(392).jpg)
+
 
 ---
 
