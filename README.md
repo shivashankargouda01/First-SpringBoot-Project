@@ -56,13 +56,12 @@ Frontend Setup
 Frontend runs on http://localhost:3000
 
 Screenshots
+![image alt](https://github.com/shivashankargouda01/First-SpringBoot-Project/blob/5a7f1367d0a4d565f24275db98d45a8ed4ee3dd1/Screenshot%20(383).png)
+![image alt](https://github.com/shivashankargouda01/First-SpringBoot-Project/blob/5a7f1367d0a4d565f24275db98d45a8ed4ee3dd1/Screenshot%20(386).png)
+![image alt](https://github.com/shivashankargouda01/First-SpringBoot-Project/blob/5a7f1367d0a4d565f24275db98d45a8ed4ee3dd1/Screenshot%20(389).png)
+![image alt](https://github.com/shivashankargouda01/First-SpringBoot-Project/blob/5a7f1367d0a4d565f24275db98d45a8ed4ee3dd1/Screenshot%20(390).png)
+![image alt](https://github.com/shivashankargouda01/First-SpringBoot-Project/blob/5a7f1367d0a4d565f24275db98d45a8ed4ee3dd1/Screenshot%20(392).png)
 
-[Image: Screenshot 1] (https://raw.githubusercontent.com/shivashankargouda/FirstSpringProject/main/Screenshot%20(383).png)  
-[Image: Screenshot 2] (https://raw.githubusercontent.com/shivashankargouda/FirstSpringProject/main/Screenshot%20(386).png)  
-[Image: Screenshot 3] (https://raw.githubusercontent.com/shivashankargouda/FirstSpringProject/main/Screenshot%20(389).png)  
-[Image: Screenshot 4] (https://raw.githubusercontent.com/shivashankargouda/FirstSpringProject/main/Screenshot%20(390).png)  
-[Image: Screenshot 5] (https://raw.githubusercontent.com/shivashankargouda/FirstSpringProject/main/Screenshot%20(392).jpg)
 
 Happy swapping!
 
-If you want me to format this content into a nicely styled markdown file or help you with anything else, please let me know!
